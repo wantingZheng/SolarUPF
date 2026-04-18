@@ -26,7 +26,6 @@ The overall framework of SolarUPF is illustrated below.
 ![SolarUPF Framework](assets/framework.png)
 
 ---
----
 
 ## Project Status
 
