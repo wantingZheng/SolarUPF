@@ -26,6 +26,11 @@ The overall framework of SolarUPF is illustrated below.
 ![SolarUPF Framework](assets/framework.png)
 
 ---
+---
+
+## Project Status
+
+This repository is currently being actively organized and improved. Additional scripts, datasets, and documentation will be released progressively.
 
 ## Repository Structure
 
@@ -51,6 +56,4 @@ SolarUPF/
 │  └─ framework.png
 └─ results/
 
-## Project Status
 
-This repository is currently being actively organized and improved. Additional scripts, datasets, and documentation will be released progressively.
