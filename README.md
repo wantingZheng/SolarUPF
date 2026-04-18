@@ -50,3 +50,7 @@ SolarUPF/
 ├─ assets/
 │  └─ framework.png
 └─ results/
+
+## Project Status
+
+This repository is currently being actively organized and improved. Additional scripts, datasets, and documentation will be released progressively.
